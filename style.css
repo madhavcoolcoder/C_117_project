@@ -1,0 +1,32 @@
+body
+{
+    background-color: lightgreen;
+}
+
+#score
+{
+    font-size: 30px;
+    margin-right: 1600px;
+}
+
+#timer
+{
+    font-size: 30px;
+    margin-left: 1100px;
+}
+
+#sketch_to_be_drawn
+{
+    font-size: 30px;
+    color : red;
+}
+
+#confidence
+{
+    font-size: 30px;
+}
+
+#your_sketch
+{
+    font-size: 30px;
+}
